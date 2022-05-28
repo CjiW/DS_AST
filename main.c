@@ -14,7 +14,7 @@ int main(void) {
         printf(" |    Choose A Function       |\n");
         printf(" |    1. Lexical Analysis     |\n");
         printf(" |    2. Syntax Analysis      |\n");
-        printf(" |    3. Show Formatted File  |\n");
+        printf(" |    3. Save Formatted File  |\n");
         printf(" |    0. Exit                 |\n");
         printf(" +----------------------------+\n");
         scanf("%d", &option);
